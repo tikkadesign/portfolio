@@ -1,0 +1,1 @@
+Unzip, then open index.html in Chrome (or host the folder on any static host such as Netlify). Hand tracking needs camera access, which Chrome allows for local files and https sites. Type "shi" to turn it on.
